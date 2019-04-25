@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: r5_description
+    relative_path: urdf/r5_description.URDF
+  SRDF:
+    relative_path: config/Joint_sldprt.srdf
+  CONFIG:
+    author_name: ghy
+    author_email: 1312623755@qq.com
+    generated_timestamp: 1493830117
